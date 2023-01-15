@@ -1,3 +1,6 @@
+ Hexadecachoron encoding of 4D unit vectors
+
+
 Here I give out an 4d unit vector encoding method that is easy to compute and offers good precision uniformly across the whole range.
 
 Previously I was encoding 3 mesh vertex attributes: normal, tangent and bitangent in the meshlet pages for the hlod as bit streams. Each attribute is a 3D unit vector and two floats should be good enough to parametrize it. The common practice is to use an octhedral encoding as detailed analysed in [1]. 
