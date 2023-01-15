@@ -84,7 +84,7 @@ In practice, the result is quite satisfying, the speed is fast and after compari
 
  Note that during the whole process, x is only scaled, and if we want to ensure that the x component carries the sign, we can reapply the sign of float using std::sign_bit and std::copy_sign, which is especially useful for the quaternion + bit encoding case, where plus minus sign makes a big difference. 
 
-
+Better implementation? Better analysis of the method? Criticisim? Applications and figures? Welcome to add issues and pr.  
 ---
 1. Meyer, Quirin, et al. "On floating‐point normal vectors." Computer Graphics Forum. Vol. 29. No. 4. Oxford, UK: Blackwell Publishing Ltd, 2010.
 
