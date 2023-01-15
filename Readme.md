@@ -1,4 +1,5 @@
- Hexadecachoron encoding of 4D unit vectors
+ **Hexadecachoron encoding of 4D unit vectors**
+ 
 
 
 Here I give out an 4d unit vector encoding method that is easy to compute and offers good precision uniformly across the whole range.
