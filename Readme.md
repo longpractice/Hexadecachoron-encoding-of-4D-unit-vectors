@@ -15,7 +15,7 @@ Normalized + Quaternion + sign is exactly a 4D unit vector. I then simply extend
 <ol>
 <li>
 Problem:
-Encode a unit 4D vector {x, y, z, w} that satisfies x*x + y*y + z*z + w * w by three floats, each within -1 and 1.
+Encode a unit 4D vector {x, y, z, w} that satisfies x*x + y*y + z*z + w * w == 1 by three floats, each within -1 and 1.
 
 </li>
 
