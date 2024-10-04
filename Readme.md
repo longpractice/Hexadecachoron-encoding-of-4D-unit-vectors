@@ -1,4 +1,4 @@
- **Fast encoding of orthogonal normal tangent and bitangent using 3 floats: Hexadecachoron encoding of 4D unit vectors**
+ **Efficient encoding of orthogonal normal, tangent and bitangent using 3 floats: Hexadecachoron encoding of 4D unit vectors**
  
 
 
